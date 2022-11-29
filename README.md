@@ -1,1 +1,5 @@
 # testeGit
+
+```
+node app.js
+```
